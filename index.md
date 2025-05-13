@@ -9,3 +9,8 @@ These changes were added to test using markdown.
 world = "world"
 print("Hello,", world)
 ```
+## Tasks list
+- [x] Add headers
+- [x] Add image
+- [x] Add Code snippet
+- [ ] Add tasks checklist
